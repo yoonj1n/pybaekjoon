@@ -1,0 +1,8 @@
+a = input()
+a,b = a.split()
+a,b = int(a), int(b)
+print(int(a+b))
+print(int(a-b))
+print(int(a*b))
+print(int(a/b))
+print(int(a%b))
