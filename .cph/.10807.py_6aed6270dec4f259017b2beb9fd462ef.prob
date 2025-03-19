@@ -1,0 +1,1 @@
+{"name":"Local: 10807","url":"/Users/choiyoonjin/Dev/baekjoon/10807.py","tests":[{"id":1742386356958,"input":"11\n1 4 1 2 4 2 4 2 3 4 4\n2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/choiyoonjin/Dev/baekjoon/10807.py","group":"local","local":true}
