@@ -1,0 +1,1 @@
+{"name":"Local: 2884","url":"/Users/choiyoonjin/Dev/baekjoon/2884.py","tests":[{"id":1742472340535,"input":"10 10","output":"9 25"},{"id":1742472384675,"input":"0 30","output":"23 45"},{"id":1742472598366,"input":"23 40","output":"22 55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/choiyoonjin/Dev/baekjoon/2884.py","group":"local","local":true}
